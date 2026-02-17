@@ -1,0 +1,13 @@
+MODEL EVALUATION SUMMARY (Test Set)
+Logistic Regression AUC: 0.654
+Random Forest AUC:       0.726
+
+Random Forest confusion matrix @ threshold 0.5:
+[[ 3 25]
+ [ 3 94]]
+
+Threshold tuning (Random Forest): best threshold by F1
+Best threshold=0.1, precision=0.776, recall=1.000, f1=0.874
+Confusion matrix at best threshold:
+[[ 0 28]
+ [ 0 97]]
