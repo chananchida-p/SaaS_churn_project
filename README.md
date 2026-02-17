@@ -13,7 +13,7 @@ The final model (Random Forest) achieved a ROC-AUC score of **0.726** on the hel
 
 ## Research Question
 
-What factors have the strongest impact on customer churn in SaaS subscription services? To what extent can machine learning (ML) models accurately predict customers before cancellation?
+What aspects have the most significant impact on customer churn in SaaS subscription services, and to what extent can machine learning models effectively predict customers at risk before they cancel their services?
 
 ---
 
